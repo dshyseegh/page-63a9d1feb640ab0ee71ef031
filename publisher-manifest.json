@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d7c257f125292d80f905cb20",
+  "owner": "dshyseegh",
+  "repo": "page-63a9d1feb640ab0ee71ef031",
+  "title": "卷王机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "63a9d1feb640ab0ee71ef031",
+      "a": "卷王机场",
+      "b": "稳定全球clash加速器",
+      "entity": "卷王机场",
+      "brand": "卷王机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5f12db93bbf1d5ed78389e96345fa5f96eb1ce7654dbb4302381ae8165e23d03",
+      "content": {
+        "primary_entity": "卷王机场",
+        "keyword1": "卷王机场",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适的客户端，订阅配置更顺畅。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选好套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更省心",
+          "AI_DESCRIPTION": "，卷王机场提供基础版、旗舰版与团队版三档套餐，覆盖 3 台到 20 台设备同时在线，月流量从 100GB 到 1000GB 不等。旗舰版配置 IPLC 专线与原生流媒体解锁，适合多设备用户；团队版支持企业定制路由。按年付可享优惠，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。可根据客户端文档导入订阅，在不同设备上快速配置。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开三项实用特点。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台设备，旗舰版支持 5 台，团队版可覆盖 20 台设备同时在线，按需选择更灵活。",
+          "AI_FEATURE_TEXT_2": "每月流量从 100GB 到 1000GB 分层提供，旗舰版与团队版具备更丰富的节点池和流媒体解锁能力。",
+          "AI_FEATURE_TEXT_3": "按年付可降低月均成本，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "设备数量分级",
+          "AI_FEATURE_TITLE_2": "流量与节点分层",
+          "AI_FEATURE_TITLE_3": "年付周期优惠",
+          "AI_GUIDE_INTRO": "选服务、看要求、配订阅，三步完成使用准备。",
+          "AI_GUIDE_TITLE": "使用准备步骤",
+          "AI_HERO_INTRO": "卷王机场提供多档套餐，覆盖不同设备数量与流量需求。基础版适合个人少量设备，旗舰版增加 IPLC 专线与原生流媒体解锁，团队版面向高流量与多设备场景。按年付更划算，可在常见客户端导入订阅使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "基础版支持 3 台设备在线",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏加速线路",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备同时在线",
+          "AI_PLANS_INTRO": "三档套餐可按设备数量、月流量与功能需求对比：基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别约 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比参考",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，从基础版、旗舰版或团队版中选择合适的套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制、流量额度与节点特性，确认能覆盖日常使用场景。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，在设备上完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "卷王机场多档套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "卷王机场套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "可联系支持了解升级或变更方式，不同版本权益按当前订阅周期计算。",
+          "AI_FAQ_QUESTION_2": "一个账号最多几台设备同时用？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台，超出可能影响连接。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付价格更低，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FAQ_QUESTION_4": "100GB 流量够日常使用吗？",
+          "AI_FAQ_ANSWER_4": "基础版适合浏览与轻度视频，若常看高清流媒体可考虑旗舰版 300GB。",
+          "AI_FAQ_QUESTION_5": "团队版支持定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版提供企业定制路由与专属客户经理，适合多设备协同场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "999yi.cn",
+    "host": "999yi.cn"
+  },
+  "file_hashes": {
+    "index.html": "b5a90458b392f3edd638675e09a8e4fd188b2ad9d4adae3a995c6a38a4fed7d2",
+    "sitemap.xml": "22ab1d90396073026b78d01c0c9d3f07a460d562ee76a871e6b7dda1777faf22",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "42af1bb9407435b7323e0494b7254bc353513f5775c023993a8d3b9809e535c1",
+    "robots.txt": "2d8fd53d70226601eafd6c1556630dc68552feafffd55b076f98f8b5fc2ca514",
+    "08fef9656976522524ac9e32ceeb46d7.txt": "945f55536b5bae4474ac9d1c6d3371687249e59d070a2ab5f871629e5b524e22"
+  },
+  "revision": "41c315d16337f6be97b84b0599aa7cb93730c2e3e4ab318f6d0b67f15eca2b7f"
+}
